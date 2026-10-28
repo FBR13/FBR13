@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Felipe Borges Rabello 👋</h1>
 <p align="center">
-  <b>Estudante de Ciência da Computação na PUC Goiás · Desenvolvedor Full-Stack</b><br/>
+  <b>Estudante de Ciência da Computação na PUC Goiás</b><br/>
   Construo aplicações web completas — do banco de dados à interface — com foco em código limpo e produtos reais em produção.
 </p>
 
