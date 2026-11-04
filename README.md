@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3178c6&height=200&section=header&text=Felipe%20Borges%20Rabello&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20TypeScript%20%C2%B7%20Next.js%20%C2%B7%20NestJS&descAlignY=58&descSize=16&animation=fadeIn" alt="Felipe Borges Rabello"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3178c6&height=200&section=header&text=Felipe%20Borges%20Rabello&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%8%C2%BA%20per%C3%ADodo%20%C2%B7%20PUC%20Goi%C3%A1s&descAlignY=58&descSize=16&animation=fadeIn" alt="Felipe Borges Rabello"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3178C6&center=true&vCenter=true&width=620&lines=Construo+aplica%C3%A7%C3%B5es+web+do+banco+%C3%A0+interface;Next.js+%2B+NestJS+%2B+Supabase+%2B+Stripe;Projetos+reais+em+produ%C3%A7%C3%A3o+na+Vercel;Aberto+a+oportunidades+de+est%C3%A1gio+%F0%9F%9A%80" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3178C6&center=true&vCenter=true&width=620&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+8%C2%BA+per%C3%ADodo;Aprendendo+desenvolvimento+web+com+TypeScript;Next.js+%2B+NestJS+%2B+Supabase+na+pr%C3%A1tica;Aberto+a+oportunidades+de+est%C3%A1gio+%F0%9F%9A%80" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 
 ```ts
 const felipe = {
-  role: "Full-stack Developer",
-  education: "Ciência da Computação @ PUC Goiás",
+  role: "Estudante de Ciência da Computação",
+  education: "PUC Goiás — 8º período",
   location: "Goiânia, GO — Brasil 🇧🇷",
   frontend: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
   backend: ["NestJS", "Node.js", "Express", "REST APIs", "JWT Auth"],
@@ -32,10 +32,10 @@ const felipe = {
 };
 ```
 
-- 🌐 Desenvolvo aplicações **full-stack em TypeScript** — do modelo de dados à interface
-- 🛒 Já entreguei um **marketplace com checkout Stripe**, painel do lojista e área do entregador
-- 🔐 Experiência com **autenticação JWT**, APIs modulares e **PostgreSQL via Supabase**
-- 🚀 Todos os projetos em destaque estão **publicados e rodando** em produção
+- 🎓 Estudante de **Ciência da Computação** na **PUC Goiás** — atualmente no **8º período**
+- 🌱 Aprendendo desenvolvimento web com **TypeScript**, praticando front-end e back-end em projetos próprios
+- 🛒 Projeto mais completo até agora: um **marketplace com checkout Stripe**, painel do lojista e área do entregador
+- 🚀 Os projetos em destaque estão **publicados** na Vercel
 
 ---
 
