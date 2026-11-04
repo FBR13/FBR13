@@ -1,79 +1,133 @@
-<h1 align="center">Olá, eu sou o Felipe Borges Rabello 👋</h1>
+<!-- Header -->
 <p align="center">
-  <b>Estudante de Ciência da Computação na PUC Goiás</b><br/>
-  Construo aplicações web completas — do banco de dados à interface — com foco em código limpo e produtos reais em produção.
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3178c6&height=200&section=header&text=Felipe%20Borges%20Rabello&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20TypeScript%20%C2%B7%20Next.js%20%C2%B7%20NestJS&descAlignY=58&descSize=16&animation=fadeIn" alt="Felipe Borges Rabello"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3178C6&center=true&vCenter=true&width=620&lines=Construo+aplica%C3%A7%C3%B5es+web+do+banco+%C3%A0+interface;Next.js+%2B+NestJS+%2B+Supabase+%2B+Stripe;Projetos+reais+em+produ%C3%A7%C3%A3o+na+Vercel;Aberto+a+oportunidades+de+est%C3%A1gio+%F0%9F%9A%80" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fbr1313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:felipeborgesrabellofbr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://44go-platform2.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://44go-platform2.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=FBR13&style=for-the-badge&color=3178C6&label=visitas" alt="Visitas"/>
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
-- 🎓 Graduando em **Ciência da Computação** na **Pontifícia Universidade Católica de Goiás (PUC Goiás)**
-- 🌐 Desenvolvimento **full-stack** com **TypeScript**: Next.js e React no front, NestJS e Express no back
-- 🗄️ Experiência com **Supabase (PostgreSQL)**, autenticação JWT e pagamentos com **Stripe**
-- 🚀 Todos os projetos abaixo estão **publicados e rodando** na Vercel
-- 📍 Goiânia, Goiás — Brasil
+```ts
+const felipe = {
+  role: "Full-stack Developer",
+  education: "Ciência da Computação @ PUC Goiás",
+  location: "Goiânia, GO — Brasil 🇧🇷",
+  frontend: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
+  backend: ["NestJS", "Node.js", "Express", "REST APIs", "JWT Auth"],
+  database: ["Supabase", "PostgreSQL"],
+  payments: ["Stripe"],
+  deploy: ["Vercel", "Git/GitHub"],
+  openTo: ["Estágio", "Freelance", "Projetos open source"],
+};
+```
 
----
-
-### 🛠️ Tecnologias
-
-**Linguagens**<br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-**Front-end**<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-
-**Back-end & Banco de dados**<br/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-
-**Ferramentas**<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+- 🌐 Desenvolvo aplicações **full-stack em TypeScript** — do modelo de dados à interface
+- 🛒 Já entreguei um **marketplace com checkout Stripe**, painel do lojista e área do entregador
+- 🔐 Experiência com **autenticação JWT**, APIs modulares e **PostgreSQL via Supabase**
+- 🚀 Todos os projetos em destaque estão **publicados e rodando** em produção
 
 ---
 
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🛒 **[44Go — Marketplace Local](https://github.com/FBR13/44go-platform2)** · [demo](https://44go-platform2.vercel.app) | Plataforma de delivery local com lojas, produtos, carrinho, checkout com Stripe, painel do lojista e área do entregador. API modular com autenticação JWT. | Next.js · NestJS · Supabase · Stripe |
-| 🏎️ **[TorqueGyn](https://github.com/FBR13/BlogTorqueGyn)** · [demo](https://blog-torque-gyn.vercel.app) | Blog/editorial automotivo com editor de texto rico, painel com gráficos e SEO otimizado. | React · Express · Supabase · Recharts |
-| ⚡ **[Velox System](https://github.com/FBR13/velox-web)** · [demo](https://velox-web-two.vercel.app) | Landing page institucional moderna com animações e consentimento de cookies. | React · Vite · Tailwind · Framer Motion |
-| 🎓 **[Atividades Acadêmicas](https://github.com/FBR13/College-Activity)** | Exercícios e trabalhos desenvolvidos ao longo da graduação na PUC Goiás. | Java · C · Lua |
-
----
-
-### 📊 Estatísticas
+## 🛠️ Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FBR13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBR13&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top linguagens"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite&perline=6" alt="Front-end"/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,supabase,postgres&perline=6" alt="Back-end"/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,java,c,lua&perline=7" alt="Ferramentas e linguagens"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-0F172A?style=flat-square&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/FBR13/44go-platform2">44Go — Marketplace Local</a></h3>
+      <p>Plataforma de delivery local com lojas, produtos, carrinho, <b>checkout com Stripe</b>, painel do lojista e área do entregador. API modular com autenticação JWT.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+      </p>
+      <a href="https://44go-platform2.vercel.app"><b>🔗 Ver demo</b></a> · <a href="https://github.com/FBR13/44go-platform2"><b>📂 Código</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏎️ <a href="https://github.com/FBR13/BlogTorqueGyn">TorqueGyn</a></h3>
+      <p>Blog editorial automotivo com <b>editor de texto rico</b>, painel administrativo com gráficos e SEO otimizado.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square"/>
+      </p>
+      <a href="https://blog-torque-gyn.vercel.app"><b>🔗 Ver demo</b></a> · <a href="https://github.com/FBR13/BlogTorqueGyn"><b>📂 Código</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/FBR13/velox-web">Velox System</a></h3>
+      <p>Landing page institucional moderna com <b>animações fluidas</b>, design responsivo e consentimento de cookies (LGPD).</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+      </p>
+      <a href="https://velox-web-two.vercel.app"><b>🔗 Ver demo</b></a> · <a href="https://github.com/FBR13/velox-web"><b>📂 Código</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/FBR13/College-Activity">Atividades Acadêmicas</a></h3>
+      <p>Exercícios e trabalhos da graduação em Ciência da Computação: <b>algoritmos, estruturas de dados e POO</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+      </p>
+      <a href="https://github.com/FBR13/College-Activity"><b>📂 Código</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FBR13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBR13&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top linguagens"/>
+</p>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=FBR13&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub streak"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FBR13&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de contribuições"/>
 </p>
 
 ---
 
 <p align="center"><i>💡 Sempre aprendendo, sempre construindo. Aberto a oportunidades de estágio e colaboração!</i></p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178c6,50:1e3a8a,100:0f172a&height=110&section=footer" alt=""/>
+</p>
