@@ -114,14 +114,21 @@ const felipe = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FBR13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FBR13&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top linguagens"/>
+  <img height="160" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+  <img height="160" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas"/>
 </p>
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=FBR13&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub streak"/>
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FBR13&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de contribuições"/>
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribuições"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FBR13/FBR13/output/snake-dark.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/FBR13/FBR13/output/snake.svg" alt="Cobrinha comendo as contribuições"/>
+  </picture>
 </p>
 
 ---
