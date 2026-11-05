@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fbr1313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/></a>
-  <a href="mailto:felipeborgesrabellofbr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" target="_blank"/></a>
-  <a href="https://t3led.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/fbr1313/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:felipeborgesrabellofbr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t3led.com.br" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
   <img src="https://komarev.com/ghpvc/?username=FBR13&style=for-the-badge&color=3178C6&label=visitas" alt="Visitas"/>
 </p>
 
