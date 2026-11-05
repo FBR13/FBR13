@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3178c6&height=200&section=header&text=Felipe%20Borges%20Rabello&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%8%C2%BA%20per%C3%ADodo%20%C2%B7%20PUC%20Goi%C3%A1s&descAlignY=58&descSize=16&animation=fadeIn" alt="Felipe Borges Rabello"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:1e3a8a,100:3178c6&section=header&reversal=false&text=FELIPE+BORGES+RABELLO&textBg=false&fontSize=35&fontAlign=50&fontColor=ffffff&fontAlignY=35&rotate=0&strokeWidth=0&desc=Cursando+8%C2%B0+Per%C3%ADodo+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%A2+PUC-GO+&descSize=25&descAlign=50&descAlignY=49" alt="Felipe Borges Rabello"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3178C6&center=true&vCenter=true&width=620&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%C2%B7+8%C2%BA+per%C3%ADodo;Aprendendo+desenvolvimento+web+com+TypeScript;Next.js+%2B+NestJS+%2B+Supabase+na+pr%C3%A1tica;Aberto+a+oportunidades+de+est%C3%A1gio+%F0%9F%9A%80" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=550&lines=Cursando+8%C2%B0+Per%C3%ADodo+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+;Aprendendo+Desenvolvimento+Web;Stacks+como+Next.js+%2B+NestJS+%2B+PostgreSQL;A+Procura+de+Novos+Conhecimentos+Sempre" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## • Sobre mim
 
 ```ts
 const felipe = {
@@ -32,14 +32,14 @@ const felipe = {
 };
 ```
 
-- 🎓 Estudante de **Ciência da Computação** na **PUC Goiás** — atualmente no **8º período**
-- 🌱 Aprendendo desenvolvimento web com **TypeScript**, praticando front-end e back-end em projetos próprios
-- 🛒 Projeto mais completo até agora: um **marketplace com checkout Stripe**, painel do lojista e área do entregador
-- 🚀 Os projetos em destaque estão **publicados** na Vercel
+-  Estudante de **Ciência da Computação** na **PUC Goiás** — atualmente no **8º período**
+-  Aprendendo desenvolvimento web com **TypeScript**, praticando front-end e back-end em projetos próprios
+-  Projeto mais completo até agora: um **marketplace com checkout Stripe**, painel do lojista e área do entregador
+-  Os projetos em destaque estão **publicados** na Vercel
 
 ---
 
-## 🛠️ Stack
+## • Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite&perline=6" alt="Front-end"/><br/>
@@ -57,7 +57,7 @@ const felipe = {
 
 ---
 
-## 🚀 Projetos em destaque
+## • Projetos em destaque
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ const felipe = {
 
 ---
 
-## 📊 GitHub Stats
+## • GitHub Stats
 
 <p align="center">
   <img height="160" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
@@ -133,7 +133,7 @@ const felipe = {
 
 ---
 
-<p align="center"><i>💡 Sempre aprendendo, sempre construindo. Aberto a oportunidades de estágio e colaboração!</i></p>
+<p align="center"><i>Sempre aprendendo, sempre construindo. Aberto a oportunidades de estágio e colaboração!</i></p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178c6,50:1e3a8a,100:0f172a&height=110&section=footer" alt=""/>
